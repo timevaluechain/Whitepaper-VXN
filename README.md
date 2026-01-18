@@ -77,5 +77,7 @@ IX. PROTOKOL MITIGASI RISIKO & STABILITAS (BENTENG BESI)
 ​Semua laporan status, supply, dan keamanan akan otomatis diperbarui ke dalam file teks yang bisa dibaca langsung melalui Manager File HP member.
 
 ​🛡️ PERNYATAAN PENUTUP:
-​"VEXON L1 dibangun bukan hanya untuk menciptakan nilai, tapi untuk menciptakan sistem yang tahan banting. Dengan 50 aturan ini, setiap celah manipulasi telah digembok. Ini adalah blockchain milik rakyat, dari rakyat, dan dijalankan di saku rakyat.”
+​VEXON L1 dibangun bukan hanya untuk menciptakan nilai, tapi untuk menciptakan sistem yang tahan banting. Dengan 50 aturan ini, setiap celah manipulasi telah digembok. Ini adalah blockchain milik rakyat, dari rakyat, dan dijalankan di saku rakyat.
 
+
+https://discord.gg/VyfhMGP2d untuk link discord kalau mau join komunitas
