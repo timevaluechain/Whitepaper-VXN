@@ -79,5 +79,35 @@ IX. PROTOKOL MITIGASI RISIKO & STABILITAS (BENTENG BESI)
 ​🛡️ PERNYATAAN PENUTUP:
 ​VEXON L1 dibangun bukan hanya untuk menciptakan nilai, tapi untuk menciptakan sistem yang tahan banting. Dengan 50 aturan ini, setiap celah manipulasi telah digembok. Ini adalah blockchain milik rakyat, dari rakyat, dan dijalankan di saku rakyat.
 
+​Decentralized Mobile-First Time-Lord Protocol
+​Version: 18.2 (Mek-Edition) | Status: Live Mainnet (Local-Mesh)
+Consensus: Proof-of-Time (PoT) | Network: Peer-to-Peer (P2P)
+​1. VISI & MISI
+​Vexon hadir untuk mendemokrasikan teknologi blockchain ke tangan pengguna smartphone. Kami percaya bahwa setiap orang berhak memiliki node validasi tanpa harus membeli rig mining mahal atau server yang boros listrik. Vexon mengoptimalkan sumber daya perangkat seluler untuk menciptakan jaringan yang tangguh, cepat, dan mandiri.
+​2. ARSITEKTUR TEKNIS
+​Vexon dibangun di atas bahasa pemrograman Python dengan arsitektur mikro-servis yang ringan.
+​Ledger In-Memory: Kecepatan akses data instan dengan sinkronisasi ke penyimpanan lokal (vexon_ledger.json).
+​State Rebuild Logic: Sistem penghitungan saldo yang dinamis untuk mencegah manipulasi data sejarah transaksi.
+​JSON-RPC API: Mendukung integrasi dengan aplikasi pihak ketiga (wallet/web dashboard) melalui port 8545.
+​3. KONSENSUS: PROOF-OF-TIME (PoT)
+​Vexon tidak menggunakan energi (PoW) atau modal besar (PoS). Kami menggunakan Waktu sebagai jangkar kebenaran.
+​Block Interval: 60 Detik.
+​Validation: Setiap blok harus merujuk pada previous_hash yang benar dan memiliki stempel waktu yang valid sesuai protokol jaringan.
+​Mining Reward: 50 VXN per blok diberikan kepada validator (Time-Lord) yang berhasil mengamankan jaringan.
+​4. PROTOKOL P2P & AUTO-DISCOVERY
+​Vexon v18.2 memperkenalkan sistem Mek-Discovery, sebuah protokol pencarian peer otomatis di jaringan lokal.
+​Zero Configuration: Node secara otomatis memindai subnet IP untuk menemukan rekan validator lainnya.
+​Gossip Protocol: Setiap blok baru yang ditemukan akan disebarkan secara instan ke seluruh jaringan melalui mekanisme broadcast-push.
+​Longest Chain Rule: Jika terjadi konflik data, jaringan secara otomatis akan mengikuti rantai yang paling panjang sebagai sumber kebenaran tunggal.
+​5. TOKENOMICS (VXN)
+​Total Supply: Berbasis emisi waktu (Inflasi terkendali).
+​Decimals: 10^{18} (Unit terkecil setara Wei pada Ethereum).
+​Incentive: 100% block reward diberikan langsung kepada penambang mobile tanpa potongan dev-fee.
+​6. ROADMAP 2026
+​Q1: Peluncuran Mek-Edition (Stable P2P Discovery).
+​Q2: Integrasi Tanda Tangan Digital (ECDSA/Dilithium) untuk keamanan transaksi.
+​Q3: Bridge ke jaringan utama (Mainnet) dan integrasi Trust Wallet secara penuh.
+​Q4: Implementasi Global DHT (Distributed Hash Table) untuk koneksi antar-benua tanpa Bootstrap Server.
+
 
 https://discord.gg/VyfhMGP2d untuk link discord kalau mau join komunitas
