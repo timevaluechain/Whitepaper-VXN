@@ -1,7 +1,7 @@
 VEXON QUANTUM WHITEPAPER
 Versi 1.0 – Founder & CEO Visionary Edition
 I. Executive Summary
-Vexon Quantum adalah proyek blockchain generasi berikutnya yang dirancang untuk menghadirkan keamanan post-quantum, skalabilitas global, dan demokratisasi ekonomi digital. Dengan mengintegrasikan XMSS (eXtended Merkle Signature Scheme), Vexon mampu memberikan transaksi yang aman dari serangan quantum computing, sekaligus mempermudah distribusi validator di jaringan peer-to-peer global.
+Vexon Quantum adalah proyek blockchain generasi berikutnya yang dirancang untuk menghadirkan keamanan post-quantum, skalabilitas global, dan demokratisasi ekonomi digital. Dengan mengintegrasikan XMSS (eXtended Merkle Signature Scheme), Vexon mampu memberikan transaksi yang aman dari serangan quantum computing, sekaligus mempermudah distribusi validator di jaringan peer-to-peer global.kami memiliki visi keamanan pasca quantum dan memblockchainisasi
 Visi: Menjadi protokol blockchain paling aman dan terdesentralisasi untuk ekosistem digital global.
 Misi:
 Menyediakan platform yang aman terhadap ancaman quantum.
